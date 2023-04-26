@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+p{
+    
+    color:red;
+    font-family: 'Mukta';
+
+}
+.pe{
+ color:green;
+ font-family: 'Bruno Ace SC';
+}
+#pe {
+    color:blue;
+    font-family: 'Pacifico', cursive;
+    
+    line-height: 1.5;
+    
+}
+.insta {
+    font-size:50px;
+}
